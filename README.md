@@ -29,15 +29,3 @@ Then lets run the toyexample.
 python toyExample/toyExample.py
 ```
 > After all installations it is advisable to clear the `pip` cache. You can just clear the cache with this command: `pip cache purge`. Remember we don't have much space.
-
-### How to run the jupyter notebook?
-```
-/cluster/jupyter/setup-for-home.sh pmlr/pmlr_env
-```
-
-```
-/home/nkoisheke/pmlr/pmlr_env/bin
-```
-
-### Where is the data?
-Data is located here: `/cluster/courses/pmlr-24/data/team-6`
